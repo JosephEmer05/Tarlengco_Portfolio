@@ -9,17 +9,17 @@ https://drive.google.com/file/d/1fw017njn09pqtZXZzGomau9GanRU1NBX/view?usp=shari
 - Game Designer
 - Level Designer
 - Programmer
-Github: https://github.com/JosephEmer05/Tarlengco_Santiago-Finals-HeatTemple.git
+#### Github: https://github.com/JosephEmer05/Tarlengco_Santiago-Finals-HeatTemple.git
 ### Factory Frontline
 #### 2.5D Strategy Tower Defense Game
 - Game Designer
 - Level Designer
 - Programmer
-Github: https://github.com/JosephEmer05/FactoryFrontline.git
+#### Github: https://github.com/JosephEmer05/FactoryFrontline.git
 ### Deep Space Tavern 
 #### 3D Restaurant Management Game
 - Game Designer
 - Level Designer
 - UI Designer
 - Animation
-Github: https://github.com/JosephEmer05/DeepSpaceTavern.git
+####Github: https://github.com/JosephEmer05/DeepSpaceTavern.git
