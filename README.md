@@ -15,9 +15,11 @@ Github: https://github.com/JosephEmer05/Tarlengco_Santiago-Finals-HeatTemple.git
 - Game Designer
 - Level Designer
 - Programmer
+Github: https://github.com/JosephEmer05/FactoryFrontline.git
 ### Deep Space Tavern 
 #### 3D Restaurant Management Game
 - Game Designer
 - Level Designer
 - UI Designer
 - Animation
+Github: https://github.com/JosephEmer05/DeepSpaceTavern.git
