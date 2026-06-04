@@ -9,6 +9,7 @@ https://drive.google.com/file/d/15MXfyrftkeOw9B4-OEBOb-SHgHl9p9Qh/view?usp=shari
 - Main Programer
 - Main Game Designer
 - Level Designer
+___________________________________________________________
 • Programmed the primary movement and hazard mechanics
 • Designed level pacing inspired by other vertical arcade runner to challenge player reflex and progression
 #### Github: https://github.com/JosephEmer05/Tarlengco_Santiago-Finals-HeatTemple.git
@@ -17,6 +18,7 @@ https://drive.google.com/file/d/15MXfyrftkeOw9B4-OEBOb-SHgHl9p9Qh/view?usp=shari
 - Main Game Designer
 - Main Level Designer
 - Programmer
+___________________________________________________________
 • Formulated the core game loop, balancing the attribute of unique towers against the waves of enemies
 • Designed and blueprinted the structural level layout to ensure strategic depth and smooth enemy pacing
 • Collaborated on code implementation debugged mechanical loops within the game to secure a stable build
@@ -27,6 +29,7 @@ https://drive.google.com/file/d/15MXfyrftkeOw9B4-OEBOb-SHgHl9p9Qh/view?usp=shari
 - Asset Integration
 - UI Designer
 - Animation
+___________________________________________________________
 • Collaborated in Ideation of game design and mechanics
 • Mapped out 3D level environment and asset creation and integration
 • Managed basic animation and ui animation
